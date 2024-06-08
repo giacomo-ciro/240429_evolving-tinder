@@ -1,6 +1,4 @@
 # Evolving Tinder
-
-## Project Overview
 This repository contains the code and report for the project "Evolving Tinder," which was developed as part of an elective course at my University. The project aims to address the limitations of the Deferred Acceptance Algorithm (DAA) by employing an evolutionary approach to achieve a more balanced and stable matching between two sets of individuals with subjective preferences.
 
 ## Abstract
