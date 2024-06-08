@@ -6,4 +6,4 @@ The Deferred Acceptance Algorithm (DAA) is an iterative method to find a stable 
 
 ## Repository Structure
 - `main.ipynb`: the python notebook containing all the code for the EA implementation and optimization;
-- `report.pdf`: the detailed project report explaining the methodology, implementation, and results of the project.
+- `evolving_tinder.pdf`: the detailed project report explaining the methodology, implementation, and results of the project.
